@@ -1,1 +1,15 @@
-coming soon...
+<-------------Game of Abyss Adixetior Changelogs------------->
+
+
+
+
+
+
+
+
+1.0.0: 
+Fixed/Updated Menu Screen. It's now mobile friendly.
+Controller will only show when you play. It will not show on menu & help screen.
+Changelogs has been moved to Changelogs.txt and added a Download button on that window.
+0.1.0: 
+First Release.
